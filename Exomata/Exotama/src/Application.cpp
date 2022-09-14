@@ -15,6 +15,8 @@
 #include "Shader.h"
 #include "Texture.h"
 
+#include <ft2build.h>
+
 int main(void)
 {
     GLFWwindow* window;
